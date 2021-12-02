@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @8yrce
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning domain shift adaptation and convLSTM network architecture 
+- 🌱 I’m currently researching domain shift adaptation capable network architecture 
 - 💞️ I’m looking to collaborate on AI/ML research projects with TensorFlow / Keras
 - 📫 How to reach me: 8yrce.dev@gmail.com
 
